@@ -1,1 +1,1 @@
-# notion-imgs
+# diagrams
