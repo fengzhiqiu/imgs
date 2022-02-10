@@ -1,1 +1,1 @@
-# notion-imgs
+# PicGo-imgs
